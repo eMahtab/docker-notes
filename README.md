@@ -5,3 +5,6 @@ https://docs.google.com/document/d/1d3YcorNdZUmhNHNfBTRPenLXtFpOD0nflqlYqmL5iyY/
 
 # Getting started with Docker Swarm
 https://docs.google.com/document/d/1T5b15HpIv1EEktyKuaceqYtkoyp3mE0k_b9MSED0Thg/edit?usp=sharing
+
+# Docker Swarm - HAProxy Demo
+https://docs.google.com/document/d/11eysgo2uABGgcE1xti1qWZEGpd9pzjJIgoGzbnabkzs/edit?usp=sharing
